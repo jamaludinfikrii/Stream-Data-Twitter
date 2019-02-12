@@ -1,0 +1,1995 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Feb 08 08:29:44 +0000 2019",
+            "id": 1093788958591352832,
+            "id_str": "1093788958591352832",
+            "text": "Receh bgt si jasrek yallah:(( @yaaahlikuburr https://t.co/VJ0hyhArN8",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "yaaahlikuburr",
+                        "name": "assalamualaikum",
+                        "id": 1077119721873395712,
+                        "id_str": "1077119721873395712",
+                        "indices": [
+                            30,
+                            44
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/VJ0hyhArN8",
+                        "expanded_url": "https://twitter.com/tidurtross/status/1093781216073936897",
+                        "display_url": "twitter.com/tidurtross/sta\u2026",
+                        "indices": [
+                            45,
+                            68
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 304935097,
+                "id_str": "304935097",
+                "name": "\ud835\udc27\ud835\udc1a\ud835\udc20\ud835\udc20\ud835\udc1e\ud835\udc2d\ud83d\ude48",
+                "screen_name": "dropdeadmitty",
+                "location": "a.f\ud83c\udf08",
+                "description": "hiii im seventeen and i do alot of dumbstuff",
+                "url": "https://t.co/0TeNzZXZ0d",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/0TeNzZXZ0d",
+                                "expanded_url": "http://aesthetics-grunge.tumblr.com",
+                                "display_url": "aesthetics-grunge.tumblr.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5264,
+                "friends_count": 1983,
+                "listed_count": 6,
+                "created_at": "Wed May 25 10:54:56 +0000 2011",
+                "favourites_count": 14267,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 43498,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1080103302128230401/RowD69Ub_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080103302128230401/RowD69Ub_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/304935097/1546172354",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1093781216073936897,
+            "quoted_status_id_str": "1093781216073936897",
+            "quoted_status": {
+                "created_at": "Fri Feb 08 07:58:58 +0000 2019",
+                "id": 1093781216073936897,
+                "id_str": "1093781216073936897",
+                "text": "gua ngakak. kebayang balon abis di tiup trus di lepas smpe terbang2:(( https://t.co/n8lHWQdEWB",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/n8lHWQdEWB",
+                            "expanded_url": "https://twitter.com/dropdeadmitty/status/1093780821016625152",
+                            "display_url": "twitter.com/dropdeadmitty/\u2026",
+                            "indices": [
+                                71,
+                                94
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 919972803817828352,
+                    "id_str": "919972803817828352",
+                    "name": "sar",
+                    "screen_name": "tidurtross",
+                    "location": "ca",
+                    "description": "akun bacot. P U B G  : justrcks",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 435,
+                    "friends_count": 314,
+                    "listed_count": 0,
+                    "created_at": "Mon Oct 16 17:06:23 +0000 2017",
+                    "favourites_count": 244,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 11293,
+                    "lang": "id",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1092494530782232578/l3tuWm8f_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092494530782232578/l3tuWm8f_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/919972803817828352/1549550882",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1093780821016625152,
+                "quoted_status_id_str": "1093780821016625152",
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "in"
+            },
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Fri Feb 08 08:29:26 +0000 2019",
+            "id": 1093788883467128832,
+            "id_str": "1093788883467128832",
+            "text": "Kalau kamu nyari yg bisa nyari duit sendiri, yg ga bisa makeup, yang hobbynya eksperimen masakan dan kue, yang bisa\u2026 https://t.co/NbLbYZyGtc",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/NbLbYZyGtc",
+                        "expanded_url": "https://twitter.com/i/web/status/1093788883467128832",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1068679648848924672,
+                "id_str": "1068679648848924672",
+                "name": "Ustatun Hasanah",
+                "screen_name": "UstatunH",
+                "location": "Malang, Jawa Timur",
+                "description": "\ud83c\udf3b",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 19,
+                "friends_count": 33,
+                "listed_count": 0,
+                "created_at": "Sat Dec 01 01:34:18 +0000 2018",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 103,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1077607399882543105/lSvaO0mD_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077607399882543105/lSvaO0mD_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068679648848924672/1545756598",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Fri Feb 08 08:27:48 +0000 2019",
+            "id": 1093788474312818688,
+            "id_str": "1093788474312818688",
+            "text": "RT @jeichahedita: Receh banget jiirr https://t.co/8sB6Sji5Km",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "jeichahedita",
+                        "name": "icha",
+                        "id": 234226594,
+                        "id_str": "234226594",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/8sB6Sji5Km",
+                        "expanded_url": "https://twitter.com/Recehin_Aja/status/1092651726757187584",
+                        "display_url": "twitter.com/Recehin_Aja/st\u2026",
+                        "indices": [
+                            37,
+                            60
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1306666004,
+                "id_str": "1306666004",
+                "name": "Umm",
+                "screen_name": "umisholikahh",
+                "location": "Yogyakarta,Indonesia",
+                "description": "Tirto'17 | YSU \ud83c\udf93",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 175,
+                "friends_count": 729,
+                "listed_count": 0,
+                "created_at": "Wed Mar 27 06:11:02 +0000 2013",
+                "favourites_count": 988,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 588,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1093779449642868736/YURuz71E_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093779449642868736/YURuz71E_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306666004/1549612276",
+                "profile_link_color": "04856B",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Feb 08 04:55:13 +0000 2019",
+                "id": 1093734976707686400,
+                "id_str": "1093734976707686400",
+                "text": "Receh banget jiirr https://t.co/8sB6Sji5Km",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/8sB6Sji5Km",
+                            "expanded_url": "https://twitter.com/Recehin_Aja/status/1092651726757187584",
+                            "display_url": "twitter.com/Recehin_Aja/st\u2026",
+                            "indices": [
+                                19,
+                                42
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 234226594,
+                    "id_str": "234226594",
+                    "name": "icha",
+                    "screen_name": "jeichahedita",
+                    "location": "Jakarta Capital Region, Indone",
+                    "description": "a midwife for life , Buna nya kaka . Istrinya Riyan .",
+                    "url": "https://t.co/qEM1mYZ5yH",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/qEM1mYZ5yH",
+                                    "expanded_url": "http://jeicha.blogspot.com/",
+                                    "display_url": "jeicha.blogspot.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 484,
+                    "friends_count": 121,
+                    "listed_count": 0,
+                    "created_at": "Wed Jan 05 03:50:28 +0000 2011",
+                    "favourites_count": 26,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 12774,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5ABB5",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1053488746295750656/zIvt6fFs_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053488746295750656/zIvt6fFs_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/234226594/1500899489",
+                    "profile_link_color": "DD2E44",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "FFF7CC",
+                    "profile_text_color": "0C3E53",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1092651726757187584,
+                "quoted_status_id_str": "1092651726757187584",
+                "quoted_status": {
+                    "created_at": "Tue Feb 05 05:10:46 +0000 2019",
+                    "id": 1092651726757187584,
+                    "id_str": "1092651726757187584",
+                    "text": "kawged https://t.co/mBDHTizarX",
+                    "truncated": false,
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                            {
+                                "id": 1092651622847590400,
+                                "id_str": "1092651622847590400",
+                                "indices": [
+                                    7,
+                                    30
+                                ],
+                                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1092651622847590400/pu/img/csVwul0ieZEinkqV.jpg",
+                                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1092651622847590400/pu/img/csVwul0ieZEinkqV.jpg",
+                                "url": "https://t.co/mBDHTizarX",
+                                "display_url": "pic.twitter.com/mBDHTizarX",
+                                "expanded_url": "https://twitter.com/Recehin_Aja/status/1092651726757187584/video/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "large": {
+                                        "w": 480,
+                                        "h": 600,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "w": 480,
+                                        "h": 600,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    },
+                                    "medium": {
+                                        "w": 480,
+                                        "h": 600,
+                                        "resize": "fit"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "id": 1092651622847590400,
+                                "id_str": "1092651622847590400",
+                                "indices": [
+                                    7,
+                                    30
+                                ],
+                                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1092651622847590400/pu/img/csVwul0ieZEinkqV.jpg",
+                                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1092651622847590400/pu/img/csVwul0ieZEinkqV.jpg",
+                                "url": "https://t.co/mBDHTizarX",
+                                "display_url": "pic.twitter.com/mBDHTizarX",
+                                "expanded_url": "https://twitter.com/Recehin_Aja/status/1092651726757187584/video/1",
+                                "type": "video",
+                                "sizes": {
+                                    "large": {
+                                        "w": 480,
+                                        "h": 600,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "w": 480,
+                                        "h": 600,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    },
+                                    "medium": {
+                                        "w": 480,
+                                        "h": 600,
+                                        "resize": "fit"
+                                    }
+                                },
+                                "video_info": {
+                                    "aspect_ratio": [
+                                        4,
+                                        5
+                                    ],
+                                    "duration_millis": 3000,
+                                    "variants": [
+                                        {
+                                            "bitrate": 632000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1092651622847590400/pu/vid/320x400/sHw58HWI_7HB_MsH.mp4?tag=6"
+                                        },
+                                        {
+                                            "bitrate": 2176000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1092651622847590400/pu/vid/480x600/3gm3r0DSnH3XrZh6.mp4?tag=6"
+                                        },
+                                        {
+                                            "content_type": "application/x-mpegURL",
+                                            "url": "https://video.twimg.com/ext_tw_video/1092651622847590400/pu/pl/jTMhHy8RP-oXjYX0.m3u8?tag=6"
+                                        },
+                                        {
+                                            "bitrate": 832000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1092651622847590400/pu/vid/360x450/611P0s_NMbcGZAVB.mp4?tag=6"
+                                        }
+                                    ]
+                                },
+                                "additional_media_info": {
+                                    "monetizable": false
+                                }
+                            }
+                        ]
+                    },
+                    "metadata": {
+                        "iso_language_code": "in",
+                        "result_type": "recent"
+                    },
+                    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "in_reply_to_screen_name": null,
+                    "user": {
+                        "id": 1019166892672446464,
+                        "id_str": "1019166892672446464",
+                        "name": "Recehin Aja",
+                        "screen_name": "Recehin_Aja",
+                        "location": "Saku celana",
+                        "description": "serius amat.                                                #RecehkanTwitter",
+                        "url": "https://t.co/xwiFrjPF9N",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/xwiFrjPF9N",
+                                        "expanded_url": "https://www.instagram.com/recehin_ajah/?hl=id",
+                                        "display_url": "instagram.com/recehin_ajah/?\u2026",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 58503,
+                        "friends_count": 1,
+                        "listed_count": 37,
+                        "created_at": "Tue Jul 17 10:28:17 +0000 2018",
+                        "favourites_count": 1011,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 1248,
+                        "lang": "id",
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1031919786224021507/ezb2jm2o_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031919786224021507/ezb2jm2o_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1019166892672446464/1546143179",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    },
+                    "geo": null,
+                    "coordinates": null,
+                    "place": null,
+                    "contributors": null,
+                    "is_quote_status": false,
+                    "retweet_count": 2602,
+                    "favorite_count": 2222,
+                    "favorited": false,
+                    "retweeted": false,
+                    "possibly_sensitive": false,
+                    "lang": "en"
+                },
+                "retweet_count": 4,
+                "favorite_count": 13,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "in"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1092651726757187584,
+            "quoted_status_id_str": "1092651726757187584",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": true,
+            "lang": "in"
+        },
+        {
+            "created_at": "Fri Feb 08 08:27:42 +0000 2019",
+            "id": 1093788447154888704,
+            "id_str": "1093788447154888704",
+            "text": "RT @MajelisLucu: Buat para prankster yang memepermasalahkan statement @pardedereza bahwa pelaku prank gembel pertama bukan baim wong.\n\nInil\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MajelisLucu",
+                        "name": "MLI",
+                        "id": 892007632537477120,
+                        "id_str": "892007632537477120",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "pardedereza",
+                        "name": "Infidel Peminum khamr",
+                        "id": 488128299,
+                        "id_str": "488128299",
+                        "indices": [
+                            70,
+                            82
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 428022655,
+                "id_str": "428022655",
+                "name": "Bahan Rasan",
+                "screen_name": "gilangdare",
+                "location": "Atma Jaya University",
+                "description": "tempat saya tidak terlihat misqin, silahkan berkunjung: gilangdare.official",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 607,
+                "friends_count": 422,
+                "listed_count": 2,
+                "created_at": "Sun Dec 04 07:37:19 +0000 2011",
+                "favourites_count": 96,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 39033,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1088372132600369152/XXKO0y-5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088372132600369152/XXKO0y-5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/428022655/1504022032",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Feb 08 02:34:38 +0000 2019",
+                "id": 1093699598911074304,
+                "id_str": "1093699598911074304",
+                "text": "Buat para prankster yang memepermasalahkan statement @pardedereza bahwa pelaku prank gembel pertama bukan baim wong\u2026 https://t.co/chqOVpN2ce",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "pardedereza",
+                            "name": "Infidel Peminum khamr",
+                            "id": 488128299,
+                            "id_str": "488128299",
+                            "indices": [
+                                53,
+                                65
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/chqOVpN2ce",
+                            "expanded_url": "https://twitter.com/i/web/status/1093699598911074304",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 892007632537477120,
+                    "id_str": "892007632537477120",
+                    "name": "MLI",
+                    "screen_name": "MajelisLucu",
+                    "location": "Pamela Bowie's",
+                    "description": "Badan Intelijen Negara di sektor kelucuan yang bertugas mengeluarkan keputusan Lucu kepada humor di masyarakat Indonesia. Business Manager : 08128881654",
+                    "url": "https://t.co/K3ctOhQwRx",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/K3ctOhQwRx",
+                                    "expanded_url": "http://bit.ly/MLICHARITY",
+                                    "display_url": "bit.ly/MLICHARITY",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 80300,
+                    "friends_count": 0,
+                    "listed_count": 57,
+                    "created_at": "Mon Jul 31 13:02:47 +0000 2017",
+                    "favourites_count": 1419,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 7288,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/944806236700082176/uMTg6hzl_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/944806236700082176/uMTg6hzl_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/892007632537477120/1501856164",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 111,
+                "favorite_count": 157,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 111,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Fri Feb 08 08:27:14 +0000 2019",
+            "id": 1093788331828080640,
+            "id_str": "1093788331828080640",
+            "text": "Dia ini receh pipol sebenernya. \n\nPLS YA KALIAN KALIAN SEMUA JANGAN TERTIPU DENGAN KE CLASSY -AN NYA \n\n- Jago ngela\u2026 https://t.co/T1zse9VGCM",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/T1zse9VGCM",
+                        "expanded_url": "https://twitter.com/i/web/status/1093788331828080640",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1093787337119608832,
+            "in_reply_to_status_id_str": "1093787337119608832",
+            "in_reply_to_user_id": 841656764655267841,
+            "in_reply_to_user_id_str": "841656764655267841",
+            "in_reply_to_screen_name": "seoyeontz",
+            "user": {
+                "id": 841656764655267841,
+                "id_str": "841656764655267841",
+                "name": "Seoyeon Lee` \u03c0",
+                "screen_name": "seoyeontz",
+                "location": "ludicfxm",
+                "description": "(RP / Muntalk \ud83c\udf1c) \uc544\uc774\ub3cc \ud559\uad50\ub97c \uc878\uc5c5\ud588\ub2e4 6/9 of fromis \uc0c8\ub85c\uc6b4 \uc5ec\ud589\uc744 \uc2dc\uc791\ud558\uc2ed\uc2dc\uc624. \u201cDo things and regret it up later\u201d. 2OOO\ub144, \uc774\uc11c\uc5f0 \uc785\ub2c8\ub2e4!",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 220,
+                "friends_count": 89,
+                "listed_count": 5,
+                "created_at": "Tue Mar 14 14:26:24 +0000 2017",
+                "favourites_count": 62,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6937,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1093314400839118848/1yPd8hgx_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093314400839118848/1yPd8hgx_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/841656764655267841/1549098644",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Fri Feb 08 08:26:22 +0000 2019",
+            "id": 1093788114395455488,
+            "id_str": "1093788114395455488",
+            "text": "RT @tetaptampan: @guemisqueen @Moohd_Ilham Bukan receh kalo becandanya ngerendahin perempuan :)",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "tetaptampan",
+                        "name": "Youngvan Alpanca",
+                        "id": 2481686426,
+                        "id_str": "2481686426",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "guemisqueen",
+                        "name": "kenapa",
+                        "id": 968111317,
+                        "id_str": "968111317",
+                        "indices": [
+                            17,
+                            29
+                        ]
+                    },
+                    {
+                        "screen_name": "Moohd_Ilham",
+                        "name": "Call me iam",
+                        "id": 1640699580,
+                        "id_str": "1640699580",
+                        "indices": [
+                            30,
+                            42
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1092367533368238080,
+                "id_str": "1092367533368238080",
+                "name": "ghesna",
+                "screen_name": "ghesnals",
+                "location": "",
+                "description": "Sobat banyak mau. Sobat banyak omong. Sobat banyak komentar.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 19,
+                "friends_count": 34,
+                "listed_count": 0,
+                "created_at": "Mon Feb 04 10:21:29 +0000 2019",
+                "favourites_count": 7,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 120,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1092375020473479168/bz3wYFJm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092375020473479168/bz3wYFJm_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092367533368238080/1549277503",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Feb 08 02:53:28 +0000 2019",
+                "id": 1093704335471439872,
+                "id_str": "1093704335471439872",
+                "text": "@guemisqueen @Moohd_Ilham Bukan receh kalo becandanya ngerendahin perempuan :)",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "guemisqueen",
+                            "name": "kenapa",
+                            "id": 968111317,
+                            "id_str": "968111317",
+                            "indices": [
+                                0,
+                                12
+                            ]
+                        },
+                        {
+                            "screen_name": "Moohd_Ilham",
+                            "name": "Call me iam",
+                            "id": 1640699580,
+                            "id_str": "1640699580",
+                            "indices": [
+                                13,
+                                25
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": 1093552765924663297,
+                "in_reply_to_status_id_str": "1093552765924663297",
+                "in_reply_to_user_id": 968111317,
+                "in_reply_to_user_id_str": "968111317",
+                "in_reply_to_screen_name": "guemisqueen",
+                "user": {
+                    "id": 2481686426,
+                    "id_str": "2481686426",
+                    "name": "Youngvan Alpanca",
+                    "screen_name": "tetaptampan",
+                    "location": "Majalengka",
+                    "description": "Sedang memperbaiki diri menjadi pribadi lebih baik lagi meskipun jarang berhijab.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n50% Liverpool - 50% Life",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 92,
+                    "friends_count": 151,
+                    "listed_count": 0,
+                    "created_at": "Wed May 07 08:36:44 +0000 2014",
+                    "favourites_count": 481,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 2439,
+                    "lang": "id",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1075786362853289985/bUEN-ZUo_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075786362853289985/bUEN-ZUo_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2481686426/1545322535",
+                    "profile_link_color": "DD2E44",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 16,
+                "favorite_count": 38,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Fri Feb 08 08:26:01 +0000 2019",
+            "id": 1093788023987200000,
+            "id_str": "1093788023987200000",
+            "text": "@ENAEUNHA97 Wkwkw \nkeyword nya :\nreceh\nhumor\nHumor gue\nngakak\nvideo ngakak",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ENAEUNHA97",
+                        "name": "\uc740\ud558\uc57c",
+                        "id": 950728364922253312,
+                        "id_str": "950728364922253312",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1093787368446808064,
+            "in_reply_to_status_id_str": "1093787368446808064",
+            "in_reply_to_user_id": 950728364922253312,
+            "in_reply_to_user_id_str": "950728364922253312",
+            "in_reply_to_screen_name": "ENAEUNHA97",
+            "user": {
+                "id": 823768261745516544,
+                "id_str": "823768261745516544",
+                "name": "OH SEHUN",
+                "screen_name": "ENASEHUN94",
+                "location": "Seoul, Republic of Korea",
+                "description": "\u2668Roleplayer 1994 liner : Oh sehun or sehun pard of EXO. He's actor, lead rapper and sub vocal. Yeeung's\ud83d\udc8d #ENAINAJA + 1766\ud83c\udf6c",
+                "url": "https://t.co/v2wfNLypNU",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/v2wfNLypNU",
+                                "expanded_url": "https://www.instagram.com/oohsehun/",
+                                "display_url": "instagram.com/oohsehun/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 667,
+                "friends_count": 650,
+                "listed_count": 14,
+                "created_at": "Tue Jan 24 05:43:53 +0000 2017",
+                "favourites_count": 279,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8751,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1092918925518467072/dSXcR1M8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092918925518467072/dSXcR1M8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/823768261745516544/1549602505",
+                "profile_link_color": "224455",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Fri Feb 08 08:25:56 +0000 2019",
+            "id": 1093788005846855680,
+            "id_str": "1093788005846855680",
+            "text": "RT @AlamiSadHomie: recah receh main kurang jauh apaan normies goblo @PandaAndri pendukung moohd ilham dan rape culturenya\n\nmula2 becandain\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AlamiSadHomie",
+                        "name": "\u039b\uff4c\uff41\uff4d\uff49\u30a2\u30e9\u30df",
+                        "id": 123327012,
+                        "id_str": "123327012",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    },
+                    {
+                        "screen_name": "PandaAndri",
+                        "name": "Andri Lesmana",
+                        "id": 1082553341106778114,
+                        "id_str": "1082553341106778114",
+                        "indices": [
+                            68,
+                            79
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1021723773819543552,
+                "id_str": "1021723773819543552",
+                "name": "lau-",
+                "screen_name": "hepichickin",
+                "location": "Jakarta Pusat, DKI Jakarta",
+                "description": "treat people with kindness \ud83c\udf0c",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1311,
+                "friends_count": 1290,
+                "listed_count": 0,
+                "created_at": "Tue Jul 24 11:48:25 +0000 2018",
+                "favourites_count": 546,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 16716,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1088839947535011841/mHmWX28j_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088839947535011841/mHmWX28j_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021723773819543552/1548434575",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Feb 07 16:34:48 +0000 2019",
+                "id": 1093548644890898432,
+                "id_str": "1093548644890898432",
+                "text": "recah receh main kurang jauh apaan normies goblo @PandaAndri pendukung moohd ilham dan rape culturenya\n\nmula2 becan\u2026 https://t.co/JIGUybsiEX",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "PandaAndri",
+                            "name": "Andri Lesmana",
+                            "id": 1082553341106778114,
+                            "id_str": "1082553341106778114",
+                            "indices": [
+                                49,
+                                60
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JIGUybsiEX",
+                            "expanded_url": "https://twitter.com/i/web/status/1093548644890898432",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 123327012,
+                    "id_str": "123327012",
+                    "name": "\u039b\uff4c\uff41\uff4d\uff49\u30a2\u30e9\u30df",
+                    "screen_name": "AlamiSadHomie",
+                    "location": "MY - ID",
+                    "description": "We provide memes to cure your sadness, depression, and anxiety.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 26713,
+                    "friends_count": 75,
+                    "listed_count": 101,
+                    "created_at": "Mon Mar 15 18:53:25 +0000 2010",
+                    "favourites_count": 305,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 3428,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1080020746523430912/OzI60wib_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080020746523430912/OzI60wib_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/123327012/1543855763",
+                    "profile_link_color": "E81C4F",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 347,
+                "favorite_count": 177,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 347,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Fri Feb 08 08:25:24 +0000 2019",
+            "id": 1093787868277878784,
+            "id_str": "1093787868277878784",
+            "text": "YA ALLAH RECEH KU https://t.co/OcqLrNUDWw",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/OcqLrNUDWw",
+                        "expanded_url": "https://twitter.com/xi_vanya/status/1090825116248764416",
+                        "display_url": "twitter.com/xi_vanya/statu\u2026",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 885875705359106048,
+                "id_str": "885875705359106048",
+                "name": "Reza Apri",
+                "screen_name": "imrezax",
+                "location": "Indonesia",
+                "description": "Who ?\nMe ?",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28,
+                "friends_count": 146,
+                "listed_count": 0,
+                "created_at": "Fri Jul 14 14:56:41 +0000 2017",
+                "favourites_count": 79,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 246,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/986238108113895424/7_hikeGu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/986238108113895424/7_hikeGu_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/885875705359106048/1502699812",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1090825116248764416,
+            "quoted_status_id_str": "1090825116248764416",
+            "quoted_status": {
+                "created_at": "Thu Jan 31 04:12:28 +0000 2019",
+                "id": 1090825116248764416,
+                "id_str": "1090825116248764416",
+                "text": "Humor aku udah gaada harganya:&lt;\n#humor #roleplayer #roleplayerindonesia #RECEHKANTWITTER https://t.co/mttq5OHJzL",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "humor",
+                            "indices": [
+                                35,
+                                41
+                            ]
+                        },
+                        {
+                            "text": "roleplayer",
+                            "indices": [
+                                42,
+                                53
+                            ]
+                        },
+                        {
+                            "text": "roleplayerindonesia",
+                            "indices": [
+                                54,
+                                74
+                            ]
+                        },
+                        {
+                            "text": "RECEHKANTWITTER",
+                            "indices": [
+                                75,
+                                91
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1090824626773536770,
+                            "id_str": "1090824626773536770",
+                            "indices": [
+                                92,
+                                115
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1090824626773536770/pu/img/wHhOIObc5idhhkB4.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1090824626773536770/pu/img/wHhOIObc5idhhkB4.jpg",
+                            "url": "https://t.co/mttq5OHJzL",
+                            "display_url": "pic.twitter.com/mttq5OHJzL",
+                            "expanded_url": "https://twitter.com/xi_vanya/status/1090825116248764416/video/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 640,
+                                    "h": 640,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 640,
+                                    "h": 640,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 640,
+                                    "h": 640,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1090824626773536770,
+                            "id_str": "1090824626773536770",
+                            "indices": [
+                                92,
+                                115
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1090824626773536770/pu/img/wHhOIObc5idhhkB4.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1090824626773536770/pu/img/wHhOIObc5idhhkB4.jpg",
+                            "url": "https://t.co/mttq5OHJzL",
+                            "display_url": "pic.twitter.com/mttq5OHJzL",
+                            "expanded_url": "https://twitter.com/xi_vanya/status/1090825116248764416/video/1",
+                            "type": "video",
+                            "sizes": {
+                                "medium": {
+                                    "w": 640,
+                                    "h": 640,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 640,
+                                    "h": 640,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 640,
+                                    "h": 640,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    1,
+                                    1
+                                ],
+                                "duration_millis": 35000,
+                                "variants": [
+                                    {
+                                        "bitrate": 1280000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1090824626773536770/pu/vid/640x640/xQIECv9TtqaOfAvR.mp4?tag=8"
+                                    },
+                                    {
+                                        "bitrate": 432000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1090824626773536770/pu/vid/320x320/qmKVMygrfmHcM_6z.mp4?tag=8"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1090824626773536770/pu/pl/2qhPCYSrKWnnsOxr.m3u8?tag=8"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1090824626773536770/pu/vid/480x480/6zPu8G20_ygInguB.mp4?tag=8"
+                                    }
+                                ]
+                            },
+                            "additional_media_info": {
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1088674548772261888,
+                    "id_str": "1088674548772261888",
+                    "name": "[RPW]Vanya Xi",
+                    "screen_name": "xi_vanya",
+                    "location": "91L from Redvelvet Irene",
+                    "description": "Vanya Xiera as Bae Joo-hyun or Irene from redvelvet parody||Call me Vanya?yes||hastags: #roleplayerindonesia",
+                    "url": "https://t.co/Sr01rZlBOu",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/Sr01rZlBOu",
+                                    "expanded_url": "https://www.instagram.com/p/Bsy0Eh6ALF0/?utm_source=ig_share_sheet&igshi",
+                                    "display_url": "instagram.com/p/Bsy0Eh6ALF0/\u2026",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 45,
+                    "friends_count": 42,
+                    "listed_count": 0,
+                    "created_at": "Fri Jan 25 05:46:53 +0000 2019",
+                    "favourites_count": 46,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 65,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1093171340452876289/6pvK4qNB_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093171340452876289/6pvK4qNB_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088674548772261888/1549467375",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 62,
+                "favorite_count": 146,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "in"
+            },
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Fri Feb 08 08:24:04 +0000 2019",
+            "id": 1093787535120072704,
+            "id_str": "1093787535120072704",
+            "text": "@rlthingy Ainun\nWindy\nIndah\nAinun sama windy sahabat sma aku, mereka tuh the best lah suka gatau malu wkekwk, sama\u2026 https://t.co/81zWeiu0Ey",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "rlthingy",
+                        "name": "/rlt/ - ON - JOIN GIVEAWAY? CEK LIKES",
+                        "id": 1562201468,
+                        "id_str": "1562201468",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/81zWeiu0Ey",
+                        "expanded_url": "https://twitter.com/i/web/status/1093787535120072704",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1093709856677089281,
+            "in_reply_to_status_id_str": "1093709856677089281",
+            "in_reply_to_user_id": 1562201468,
+            "in_reply_to_user_id_str": "1562201468",
+            "in_reply_to_screen_name": "rlthingy",
+            "user": {
+                "id": 1035444177784332288,
+                "id_str": "1035444177784332288",
+                "name": "\ub124",
+                "screen_name": "urbuceen",
+                "location": "Bandung, Indonesia",
+                "description": "buceennya oppa dan kucing. akun suka suka",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 173,
+                "friends_count": 246,
+                "listed_count": 0,
+                "created_at": "Fri Aug 31 08:28:24 +0000 2018",
+                "favourites_count": 563,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6135,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1084345815278116864/-9HHwq_T_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084345815278116864/-9HHwq_T_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035444177784332288/1535705156",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.056,
+        "max_id": 1093788958591352832,
+        "max_id_str": "1093788958591352832",
+        "next_results": "?max_id=1093787535120072703&q=Receh&lang=id&count=10&include_entities=1&result_type=recent",
+        "query": "Receh",
+        "refresh_url": "?since_id=1093788958591352832&q=Receh&lang=id&result_type=recent&include_entities=1",
+        "count": 10,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
